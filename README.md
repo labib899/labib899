@@ -1,5 +1,5 @@
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
-I am currently studying Software Engineering at University of Dhaka. 
+currently studying Software Engineering at University of Dhaka. 
 <br> love learning new stuff and enjoy problem solving as well 👨‍💻</br>
 
 - 🌱 currently learning **Problem Solving**
