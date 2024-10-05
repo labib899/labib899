@@ -1,8 +1,8 @@
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 I am currently studying Software Engineering at University of Dhaka. 
-<br>I love learning new stuff and enjoy problem solving as well 👨‍💻</br>
+<br> love learning new stuff and enjoy problem solving as well 👨‍💻</br>
 
-- 🌱 I’m currently learning **Problem Solving**
+- 🌱 currently learning **Problem Solving**
 
 - 📫 How to reach me **hossainlabib1504@gmail.com**
 
