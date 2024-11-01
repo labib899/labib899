@@ -2,19 +2,17 @@
 
 <h3 align="left">Handles:</h3>
 <p align="left">
-    <a href="https://www.codechef.com/users/labib89" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="labib89" height="30" width="40" />
-        <span style="margin-left: 8px;">Codechef</span>
+    <a href="https://www.codechef.com/users/labib89" target="blank" style="text-decoration: none; margin-right: 15px;">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Codechef" height="30" width="40" style="vertical-align: middle;"/>
+        <span style="font-size: 16px; color: #333; vertical-align: middle;">Codechef</span>
     </a>
-    <br />
-    <a href="https://codeforces.com/profile/doomer_potato" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" alt="labib89" height="30" width="40" />
-        <span style="margin-left: 8px;">Codeforces</span>
+    <a href="https://codeforces.com/profile/doomer_potato" target="blank" style="text-decoration: none; margin-right: 15px;">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" alt="Codeforces" height="30" width="40" style="vertical-align: middle;"/>
+        <span style="font-size: 16px; color: #333; vertical-align: middle;">Codeforces</span>
     </a>
-    <br />
-    <a href="https://www.hackerrank.com/labib89" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="labib89" height="30" width="40" />
-        <span style="margin-left: 8px;">HackerRank</span>
+    <a href="https://www.hackerrank.com/labib89" target="blank" style="text-decoration: none; margin-right: 15px;">
+        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="HackerRank" height="30" width="40" style="vertical-align: middle;"/>
+        <span style="font-size: 16px; color: #333; vertical-align: middle;">HackerRank</span>
     </a>
 </p>
 
