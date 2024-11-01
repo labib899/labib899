@@ -1,12 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
-I am currently a Software Engineering undergraduate at University of Dhaka. 
-<br>I love learning new stuff and enjoy problem solving as well 👨‍💻</br>
-
-- 🌱 I’m currently learning **Problem Solving**
-
-- 📫 How to reach me **hossainlabib1504@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Handles:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/labib89" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="labib89" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/labib89" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="labib89" height="30" width="40" /></a>
