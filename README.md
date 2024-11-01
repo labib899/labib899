@@ -4,12 +4,17 @@
 <p align="left">
     <a href="https://www.codechef.com/users/labib89" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="labib89" height="30" width="40" />
+        <span style="margin-left: 8px;">Codechef</span>
     </a>
-    <a href="https://codeforces.com/profile/doomer_potato" target="blank">
+    <br />
+    <a href="https://codeforces.com/profile/labib89" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" alt="labib89" height="30" width="40" />
+        <span style="margin-left: 8px;">Codeforces</span>
     </a>
+    <br />
     <a href="https://www.hackerrank.com/labib89" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="labib89" height="30" width="40" />
+        <span style="margin-left: 8px;">HackerRank</span>
     </a>
 </p>
 
