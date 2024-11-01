@@ -2,17 +2,17 @@
 
 <h3 align="left">Handles:</h3>
 <p align="left">
-    <a href="https://www.codechef.com/users/labib89" target="blank" style="text-decoration: none; margin-right: 15px;">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Codechef" height="30" width="40" style="vertical-align: middle;"/>
-        <span style="font-size: 16px; color: #333; vertical-align: middle; text-decoration: none;">Codechef</span>
+    <a href="https://www.codechef.com/users/labib89" target="blank" style="text-decoration: none; margin-right: 20px; display: inline-flex; align-items: center;">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Codechef" height="30" width="40" style="vertical-align: middle;"/>
+        <span style="font-size: 16px; color: #333; margin-left: 8px;">Codechef</span>
     </a>
-    <a href="https://codeforces.com/profile/doomer_potato" target="blank" style="text-decoration: none; margin-right: 15px;">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" alt="Codeforces" height="30" width="40" style="vertical-align: middle;"/>
-        <span style="font-size: 16px; color: #333; vertical-align: middle; text-decoration: none;">Codeforces</span>
+    <a href="https://codeforces.com/profile/doomer_potato" target="blank" style="text-decoration: none; margin-right: 20px; display: inline-flex; align-items: center;">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" alt="Codeforces" height="30" width="40" style="vertical-align: middle;"/>
+        <span style="font-size: 16px; color: #333; margin-left: 8px;">Codeforces</span>
     </a>
-    <a href="https://www.hackerrank.com/labib89" target="blank" style="text-decoration: none; margin-right: 15px;">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="HackerRank" height="30" width="40" style="vertical-align: middle;"/>
-        <span style="font-size: 16px; color: #333; vertical-align: middle; text-decoration: none;">HackerRank</span>
+    <a href="https://www.hackerrank.com/labib89" target="blank" style="text-decoration: none; margin-right: 20px; display: inline-flex; align-items: center;">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="HackerRank" height="30" width="40" style="vertical-align: middle;"/>
+        <span style="font-size: 16px; color: #333; margin-left: 8px;">HackerRank</span>
     </a>
 </p>
 
