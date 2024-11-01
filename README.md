@@ -4,15 +4,15 @@
 <p align="left">
     <a href="https://www.codechef.com/users/labib89" target="blank" style="text-decoration: none; margin-right: 15px;">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Codechef" height="30" width="40" style="vertical-align: middle;"/>
-        <span style="font-size: 16px; color: #333; vertical-align: middle;">Codechef</span>
+        <span style="font-size: 16px; color: #333; vertical-align: middle; text-decoration: none;">Codechef</span>
     </a>
     <a href="https://codeforces.com/profile/doomer_potato" target="blank" style="text-decoration: none; margin-right: 15px;">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codeforces.svg" alt="Codeforces" height="30" width="40" style="vertical-align: middle;"/>
-        <span style="font-size: 16px; color: #333; vertical-align: middle;">Codeforces</span>
+        <span style="font-size: 16px; color: #333; vertical-align: middle; text-decoration: none;">Codeforces</span>
     </a>
     <a href="https://www.hackerrank.com/labib89" target="blank" style="text-decoration: none; margin-right: 15px;">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/hackerrank.svg" alt="HackerRank" height="30" width="40" style="vertical-align: middle;"/>
-        <span style="font-size: 16px; color: #333; vertical-align: middle;">HackerRank</span>
+        <span style="font-size: 16px; color: #333; vertical-align: middle; text-decoration: none;">HackerRank</span>
     </a>
 </p>
 
